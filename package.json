@@ -9,6 +9,9 @@
   "keywords": [
     "fnm"
   ],
+  "engines": {
+    "node": "16.14.0"
+  },
   "author": "Temirlan Baibolov",
   "license": "MIT"
 }
