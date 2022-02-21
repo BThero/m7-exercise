@@ -1,0 +1,14 @@
+{
+  "name": "m7-exercise",
+  "version": "1.0.0",
+  "description": "Exercise app for first day of M7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fnm"
+  ],
+  "author": "Temirlan Baibolov",
+  "license": "MIT"
+}
